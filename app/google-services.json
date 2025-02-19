@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130017877311",
+    "project_id": "forum-os-dba0c",
+    "storage_bucket": "forum-os-dba0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130017877311:android:f94c9752818b7709ae478a",
+        "android_client_info": {
+          "package_name": "com.example.forumos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ShkmDOvmBH4JJkuKfz_rsyoR4YworYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
